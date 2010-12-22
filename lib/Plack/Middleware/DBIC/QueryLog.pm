@@ -2,8 +2,10 @@ package Plack::Middleware::DBIC::QueryLog;
 
 use Moo;
 use Plack::Util;
+use 5.008008;
+
 extends 'Plack::Middleware';
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 sub PSGI_KEY { 'plack.middleware.dbic.querylog' }
 
