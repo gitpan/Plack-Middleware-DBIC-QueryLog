@@ -33,4 +33,4 @@ resources:
   homepage: http://search.cpan.org/dist/Plack-Middleware-DBIC-QueryLog/
   license: http://dev.perl.org/licenses/
   repository: git://github.com/jjn1056/Plack-Middleware-DBIC-QueryLog.git
-version: 0.03
+version: 0.04
